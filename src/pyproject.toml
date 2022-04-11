@@ -1,0 +1,7 @@
+[build-system]
+requires = [ "whey",]
+build-backend = "whey"
+
+[project]
+name = "module"
+version = "0.0.0"
